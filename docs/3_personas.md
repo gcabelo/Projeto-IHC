@@ -1,3 +1,5 @@
+## Personas, Contexto de Uso e Jornada do Usuário
+
 ## Persona Primária: Matheus Oliveira, Desenvolvedor - “Otimização para o mundo”
 
 <img width="325" height="378" alt="image" src="https://github.com/user-attachments/assets/d60e3205-8b89-4830-a885-b426950a3759" />
