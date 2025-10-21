@@ -16,8 +16,8 @@ O protótipo desenvolvido na disciplina de IHC representa a interface gráfica i
 
 ## Introdução
 
-Título Original do TCC: Análise de Desempenho em Partidas de Futebol de Robôs da FEI
-Nome do orientador: Danilo Hernani Périco 
+Título Original do TCC: Análise de Desempenho em Partidas de Futebol de Robôs da FEI <Br>
+Nome do orientador: Danilo Hernani Périco <Br>
 Previsto desenvolver Interface? ( X ) Sim ( ) Não
 
 Objetivo do trabalho:
