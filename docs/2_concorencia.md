@@ -145,7 +145,7 @@ Looker (Google Looker Studio)
 - Oferecer treinamento contínuo aos usuários para maximizar o aproveitamento das funcionalidades de BI.
 
 
-Referências
+## Referências
 
 https://www.qlik.com
 
