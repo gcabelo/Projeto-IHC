@@ -55,7 +55,7 @@ O sistema deve armazenar dados como nome, função na equipe (ex.: desenvolvedor
 <img width="982" height="534" alt="image" src="https://github.com/user-attachments/assets/adc50667-7707-438b-9015-733a58bf2fd7" />
 
 
-## Persona Negativa: Brenda Gomes, Desenvolvedora  - “A base do sucesso é a inovação” 
+# Persona Negativa: Brenda Gomes, Desenvolvedora  - “A base do sucesso é a inovação” 
 
  <img width="385" height="385" alt="image" src="https://github.com/user-attachments/assets/7cf41edc-0a92-4657-9431-ba987c89f48d" />
 
