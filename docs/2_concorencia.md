@@ -97,14 +97,13 @@ O QlikView segue um padrão mais técnico e tradicional de interface, com poucos
 ## Conclusão Geral da Análise de Concorrência
 
 - Geral
+  
 Padrões e tendências analisados
 
 As ferramentas de Business Intelligence (BI) estão cada vez mais orientadas à análise visual interativa, permitindo que usuários de diferentes níveis técnicos interpretem dados de forma intuitiva.
 Há uma tendência crescente na integração com plataformas em nuvem, possibilitando colaboração em tempo real e acesso remoto a dashboards e relatórios.
 Outro aspecto relevante é o uso de inteligência artificial e machine learning para gerar insights automáticos, prever tendências e sugerir métricas relevantes aos usuários.
 A conectividade com múltiplas fontes de dados e a flexibilidade na modelagem são fatores fundamentais para atender diferentes necessidades organizacionais.
-
-- Elabore relatórios e sumarize os resultados
 
 ## QlikView
 
