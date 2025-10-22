@@ -71,14 +71,12 @@ Ele reforça o conceito de storytelling com dados, tendência crescente em inter
 - Propósito e Abordagem
 
 O QlikView é uma plataforma de BI com foco em análise associativa de dados, permitindo a exploração de grandes volumes de informação de forma dinâmica.
-Enquanto o Power BI é mais intuitivo e visual, o QlikView oferece alto desempenho técnico, mas com complexidade maior na configuração inicial.
 
 <img width="615" height="352" alt="image" src="https://github.com/user-attachments/assets/9ddb99f9-f395-4f6c-a121-8bcbea24e092" />
 
 - Integração e Fontes de Dados
 
-O QlikView suporta uma ampla variedade de fontes de dados, mas requer configurações manuais e scripts personalizados para integração. O Power BI se destaca pela facilidade de conexão com o ecossistema Microsoft e APIs externas.
-
+O QlikView suporta uma ampla variedade de fontes de dados, mas requer configurações manuais e scripts personalizados para integração. 
 - Experiência do Usuário (UX)
 
 A interface do QlikView é funcional, mas datada, com foco na performance e não na estética.
@@ -88,7 +86,7 @@ Usuários técnicos elogiam sua velocidade e capacidade analítica, porém relat
 
 <img width="1037" height="471" alt="image" src="https://github.com/user-attachments/assets/7859af14-9fb8-4d35-9df5-3de616321836" />
 
-O QlikView é comercializado em planos corporativos e licenças anuais,de U$200 a U$875 sendo mais caro e menos acessível do que o Power BI.
+O QlikView é comercializado em planos corporativos e licenças anuais,de U$200 a U$875 sendo mais caro.
 Para projetos educacionais, sua aplicação é limitada, e o QlikSense (versão moderna) é mais indicado.
 
 - Padrões e Tendências
