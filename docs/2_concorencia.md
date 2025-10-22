@@ -38,7 +38,7 @@ O Looker segue o padrão minimalista e corporativo, priorizando consistência e 
 - Propósito e Abordagem
 
 O Tableau, pertencente à Salesforce, é uma das ferramentas de BI mais conhecidas mundialmente, destacando-se pela qualidade visual e interatividade de seus dashboards.
-O Power BI, por outro lado, oferece um ecossistema mais acessível e integrado à suíte Microsoft, o que o torna mais adequado para o ambiente acadêmico e pequenas equipes.
+
 
 <img width="656" height="395" alt="image" src="https://github.com/user-attachments/assets/326690ee-6a33-46bb-a700-5d2391a1400a" />
 
