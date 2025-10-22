@@ -6,12 +6,12 @@ Matheus está vivendo um momento importante como integrante do time de Futebol d
 
 ## Questões de Refinamento
 
--Por que Matheus quer alcançar esse objetivo?
--Em que momentos ele enfrenta dificuldades?
--Que informações são necessárias para tomar decisões estratégicas?
--Quais pressões impactam o desempenho?
--Que recursos ele utiliza atualmente e com quais limitações?
--Como ele avalia se suas ações foram eficazes?
+- Por que Matheus quer alcançar esse objetivo?<br>
+- Em que momentos ele enfrenta dificuldades?<br>
+- Que informações são necessárias para tomar decisões estratégicas?<br>
+- Quais pressões impactam o desempenho?<br>
+- Que recursos ele utiliza atualmente e com quais limitações?<br>
+- Como ele avalia se suas ações foram eficazes?<br> 
 
 ## Refinamento do Cenário
 
@@ -26,12 +26,13 @@ Carlos, técnico do time de Futebol de Robôs da FEI, carrega a responsabilidade
 
 ## Questões de Refinamento
 
-- Quais tecnologias Carlos utiliza para acompanhar o time?
-- Quais decisões ele precisa tomar e em que momento?
-- Que informações são essenciais para orientar os alunos?
-- Que pressões ou riscos influenciam suas escolhas?
-- Como ele avalia se os objetivos da equipe foram atingidos?
-- Refinamento do Cenário
+- Quais tecnologias Carlos utiliza para acompanhar o time?<br>
+- Quais decisões ele precisa tomar e em que momento?<br>
+- Que informações são essenciais para orientar os alunos?<br>
+- Que pressões ou riscos influenciam suas escolhas?<br>
+- Como ele avalia se os objetivos da equipe foram atingidos?<br>
+
+## Refinamento do Cenário
 
 Mesmo com anos de experiência no cenário de competições, Carlos enfrenta o desafio de acompanhar a constante evolução tecnológica dos times adversários. Ele busca integrar novas ferramentas de análise, como dashboards e recursos de inteligência artificial, para melhorar o desempenho da equipe.
 Contudo, o excesso de dados e a falta de interfaces integradas e intuitivas o sobrecarregam. Carlos precisa tomar decisões rápidas e estratégicas, mas muitas vezes encontra dificuldades para localizar e interpretar informações relevantes durante o torneio.
@@ -41,14 +42,13 @@ Além disso, ele sente a pressão de manter o alto padrão da FEI em um ambiente
 
 Brenda, estudante da Mauá e membro do time de Futebol de Robôs, encontrou nessa atividade uma forma de reviver as boas lembranças com seu pai, com quem costumava assistir jogos de futebol. Agora, ela busca levar seu time ao mesmo nível de desempenho da rival FEI.
 
-
 ## Questões de Refinamento
 
-- Que pré-condições Brenda precisa para treinar efetivamente?
-- Que informações ela precisa para melhorar as estratégias do time?
-- Quem depende do resultado das decisões de Brenda?
-- Quais riscos e dificuldades ocorrem na execução das táticas?
-- Como Brenda sabe que suas ações foram eficazes?
+- Que pré-condições Brenda precisa para treinar efetivamente?<br>
+- Que informações ela precisa para melhorar as estratégias do time?<br>
+- Quem depende do resultado das decisões de Brenda?<br>
+- Quais riscos e dificuldades ocorrem na execução das táticas?<br>
+- Como Brenda sabe que suas ações foram eficazes?<br>
 
 ## Refinamento do Cenário
 
@@ -56,7 +56,7 @@ Desde cedo, Brenda demonstrou grande interesse por tecnologia e decidiu unir ess
 Mesmo utilizando dashboards e relatórios desenvolvidos por outros grupos de pesquisa, Brenda enfrenta barreiras na interpretação das informações e na aplicação prática das análises durante os jogos.
 A pressão emocional de representar sua faculdade e o desejo pessoal de honrar a memória do pai se somam à frustração de não conseguir visualizar claramente as estratégias mais eficazes. Quando descobre que a equipe rival utiliza tecnologias mais avançadas de análise, sente-se desmotivada, reforçando a necessidade de uma solução que torne a análise e o aprendizado mais acessíveis, compreensíveis e interativos.
 
-Comunicabilidade
+# Comunicabilidade
 
 A comunicabilidade refere-se à capacidade do sistema de transmitir claramente sua lógica e intenção ao usuário. A ferramenta deve apresentar seus resultados e recomendações de forma compreensível, usando ícones, cores e visualizações que expressem significado sem necessidade de longas explicações.
 Uma boa comunicabilidade facilita o trabalho em equipe, já que diferentes membros — com variados níveis de experiência — conseguem interpretar os mesmos dados e colaborar nas decisões estratégicas.
