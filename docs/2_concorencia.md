@@ -106,7 +106,7 @@ A conectividade com múltiplas fontes de dados e a flexibilidade na modelagem s�
 
 - Elabore relatórios e sumarize os resultados
 
-- QlikView
+## QlikView
 
 - Ferramenta de Business Intelligence desenvolvida pela Qlik, com foco em análises associativas.
 - Utiliza o motor de indexação QIX, que permite explorar dados de forma não linear, revelando relações ocultas entre conjuntos de dados.
@@ -116,7 +116,7 @@ A conectividade com múltiplas fontes de dados e a flexibilidade na modelagem s�
 - Possui controle de acesso por usuários e funções, permitindo segurança em múltiplos níveis.
 - Interface mais técnica, voltada a analistas e desenvolvedores de BI.
 
-- Tableau
+ ## Tableau
 
 - Plataforma de análise e visualização de dados com foco em simplicidade e visual design.
 - Permite conexão com diversas fontes de dados locais e em nuvem, como Excel, SQL, Google Sheets e Salesforce.
@@ -126,7 +126,7 @@ A conectividade com múltiplas fontes de dados e a flexibilidade na modelagem s�
 - Funcionalidades de compartilhamento via Tableau Server e Tableau Online.
 - Ênfase em design visual e experiência do usuário.
 
-- Looker (Google Looker Studio)
+## Looker (Google Looker Studio)
   
 - Ferramenta de BI baseada em nuvem desenvolvida pelo Google Cloud.
 - Utiliza a linguagem LookML para modelagem de dados e padronização de métricas.
