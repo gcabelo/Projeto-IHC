@@ -44,7 +44,9 @@ Nome do Instrumento: Questionário de Perfil de Usuário.
 Objetivo de Aplicação: Coletar dados quantitativos e demográficos dos usuários (conforme definido na seção "Que dados coletar?"). O objetivo é traçar o perfil tecnológico (nível de experiência com análise de dados e dashboards) e de domínio (nível de conhecimento sobre Futebol de Robôs) dos participantes, além de validar suas motivações.
 
 
-Como Aplicar: O questionário deve ser enviado digitalmente aos participantes (desenvolvedores e técnico da equipe) antes de qualquer entrevista ou sessão de observação. As respostas devem ser anônimas (se o grupo de usuários for grande) ou confidenciais (se for pequeno, como neste caso) e individuais, para evitar conflitos de grupo.
+Como Aplicar: 
+
+O questionário deve ser enviado digitalmente aos participantes (desenvolvedores e técnico da equipe) antes de qualquer entrevista ou sessão de observação. As respostas devem ser anônimas (se o grupo de usuários for grande) ou confidenciais (se for pequeno, como neste caso) e individuais, para evitar conflitos de grupo.
 
 Instrumento: Link do Google Forms criado para o projeto:
 
