@@ -22,6 +22,9 @@ Contexto: Está no laboratório se preparando para o Campeonato Nacional de Fute
 
 8. Registro → Os filtros aplicados são mantidos para uma próxima consulta rápida.
 
+   <img width="893" height="577" alt="image" src="https://github.com/user-attachments/assets/58524d68-b793-4a10-982c-1b6520ac68ad" />
+
+
 
 ## Jornada do Usuário 02 – Técnico "Carlos" [Conhecimentos Avançados - Estratégia e IA]
 
@@ -46,3 +49,7 @@ Contexto: Após receber a análise de Matheus (Jornada 01), Carlos decide que pr
 8. Ações pós-feedback → O usuário clica em "Salvar configurações".
 
 10. Registro → O sistema armazena as novas configurações. Todas as análises futuras (incluindo as de Matheus) utilizarão esses novos pesos para classificar os times.
+
+<img width="874" height="571" alt="image" src="https://github.com/user-attachments/assets/c5ada444-6bfa-4281-83cc-6d4c62026330" />
+
+
