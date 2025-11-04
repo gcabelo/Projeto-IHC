@@ -3,8 +3,8 @@
 | D | **Determinar** os objetivos da avaliação. <br> *Objetivo:* Avaliar se os elementos visuais dos dashboards são essenciais e se a interface é intuitiva para a tomada de decisão tática. |
 | :---: | :---- |
 | **E** | **Explorar** as perguntas a serem respondidas. <br> *Perguntas:* Os usuários conseguem interpretar os dados? O sistema melhora a tomada de decisão? Por que os usuários podem não incorporar o sistema no seu cotidiano? |
-| **C** | **Escolher** (Choose) os métodos de avaliação a serem utilizados. <br> *Métodos:* Avaliação Heurística (realizada na Entrega 14) e Teste de Usabilidade com Usuário (realizado na Entrega 15). |
-| **I** | **Identificar** as questões práticas da avaliação. <br> *Questões:* Recrutar usuários representativos (analistas e técnicos, como Matheus e Carlos)  e não apenas usuários novatos (como o teste da Entrega 15). Garantir um ambiente de teste realista (laboratório vs. pressão de um campeonato). |
+| **C** | **Escolher** (Choose) os métodos de avaliação a serem utilizados. <br> *Métodos:* Avaliação Heurística e Teste de Usabilidade com Usuário. |
+| **I** | **Identificar** as questões práticas da avaliação. <br> *Questões:* Recrutar usuários representativos (analistas e técnicos, como Matheus e Carlos)  e não apenas usuários novatos. Garantir um ambiente de teste realista (laboratório vs. pressão de um campeonato). |
 | **D** | **Decidir** sobre as questões éticas. <br> *Ações:* Garantir sigilo absoluto dos dados estratégicos da equipe , obter consentimento voluntário dos participantes e ser transparente sobre o funcionamento e limitações do modelo. |
 | **E** | **Avaliar** (Evaluate), interpretar e apresentar os resultados. <br> A análise e produção dos resultados precisam considerar vários aspectos, combinando os problemas de usabilidade encontrados na Avaliação Heurística (como "Controle e liberdade" e "Flexibilidade") com o feedback qualitativo direto coletado no teste com usuário (como a dificuldade em "criar novas análises"). |
 
