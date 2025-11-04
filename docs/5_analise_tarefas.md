@@ -138,8 +138,6 @@ Este modelo GOMS descreve a tarefa de "Validação de Relatórios". Ele detalha 
 
 METHOD 1.A: Utilizar a interface do software de análise.
 
-(SEL. RULE: Usuário está logado e tem permissões para acessar relatórios.) 
-
 - OP. 1.A.1: Navegar até a seção de relatórios.
 - OP. 1.A.2: Clicar no relatório desejado.
 - OP. 1.A.3: Visualizar detalhes do relatório.
@@ -147,8 +145,6 @@ METHOD 1.A: Utilizar a interface do software de análise.
 - GOAL 2: Comparar e validar os dados do relatório.
 - SEL. RULE: SE (Logs originais estão disponíveis para comparação) ENTÃO (Usar METHOD 2.A).
 METHOD 2.A: Comparar relatório com logs originais.
-
-(SEL. RULE: Logs originais estão disponíveis para comparação.) 
 
 - OP. 2.A.1: Abra os logs originais.
 - OP. 2.A.2: Comparar dados do log com o relatório.
@@ -158,8 +154,6 @@ METHOD 2.A: Comparar relatório com logs originais.
 - SEL. RULE: SE (Não há discrepâncias identificadas na etapa anterior) ENTÃO (Usar METHOD 3.A), SENÃO (Usar METHOD 3.B).
 
 METHOD 3.A: Verificar a precisão dos dados.
-
-(SEL. RULE: Não há discrepâncias identificadas na etapa anterior.) 
 
 - OP. 3.A.1: Marcar o relatório como validado.
 - OP. 3.A.2: Registrar quaisquer observações ou comentários necessários.
@@ -175,8 +169,6 @@ O modelo GOMS para "Configurações de Métricas" detalha os passos para um usu�
 
 METHOD 1.A: Utilizar a interface do software de análise.
 
-(SEL. RULE: Usuário está logado e tem permissões para acessar configurações.) 
-
 - OP. 1.A.1: Navegar até o menu ou aba de configurações.
 - OP. 1.A.2: Seleccionar a opção "Configurações de métricas".
 - OP. 1.A.3: Visualizar métricas atuais.
@@ -184,17 +176,13 @@ METHOD 1.A: Utilizar a interface do software de análise.
 - GOAL 2: Editar ou adicionar métricas conforme necessário.
 - SEL. RULE: SE (A métrica necessária não está presente) ENTÃO (Usar METHOD 2.A), SENÃO (Usar METHOD 2.B).
 
-METHOD 2.A: Identificar métricas para edição ou adição.
-
-(SEL. RULE: A métrica necessária não está presente ou precisa de ajustes.) 
+METHOD 2.A: Identificar métricas para edição ou adição. 
 
 - OP. 2.A.1: Clicar no botão "Adicionar" ou "Editar" métrica.
 - OP. 2.A.2: Introduzir ou modificar os parâmetros da métrica.
 - OP. 2.A.3: Confirmar e salvar as alterações.
 
 METHOD 2.B: Testar métricas recém-configuradas.
-
-(SEL. RULE: Uma nova métrica foi adicionada ou uma métrica existente foi ajustada.) 
 SEL. RULE: SE (Uma nova métrica foi adicionada OU uma métrica existente foi ajustada) ENTÃO (Usar METHOD 3.A).
 
 - OP. 2.B.1: Gerar um relatório de teste com a métrica ajustada.
