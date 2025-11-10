@@ -16,12 +16,9 @@ Matheus está vivendo um momento importante como integrante do time de Futebol d
 
 **Refinamento do Cenário**
 
-1.  Desde pequeno, Matheus é fascinado por robótica e busca a vitória no Campeonato Nacional não apenas pela competição, mas como o ápice de anos de estudo e prática, visando o reconhecimento acadêmico e tecnológico para a FEI.
-2.  Ele enfrenta dificuldades principalmente durante os torneios, onde o ritmo acelerado das partidas o impede de interpretar os dados com a rapidez necessária.
-3.  Para tomar decisões táticas eficazes, Matheus precisa de informações claras e rápidas sobre o desempenho dos adversários e os padrões de sua própria equipe.
-4.  O nervosismo, a alta cobrança por resultados (tanto própria quanto dos colegas) e o ambiente emocionalmente desgastante do campeonato impactam diretamente sua concentração e capacidade de análise.
-5.  Ele utiliza atualmente softwares de análise e coleta de dados. No entanto, sua principal limitação é o excesso de informações visuais e estatísticas desorganizadas, que dificultam o uso eficiente das ferramentas e a transformação de dados brutos em *insights* acionáveis.
-6.  Matheus avalia se suas ações foram eficazes observando o resultado direto no desempenho coletivo do time na partida seguinte e, em última instância, pela conquista da vitória no campeonato.
+[1] Matheus quer alcançar esse objetivo pois, além de ser fascinado por robótica, o Campeonato Nacional representa o ápice de anos de estudo e prática. [2] Ele enfrenta dificuldades principalmente durante os torneios, [4] onde o nervosismo, a alta cobrança por resultados (de si e dos colegas), a pressão do campeonato e o ritmo acelerado das partidas prejudicam sua concentração.
+[5] Mesmo utilizando os recursos atuais (softwares de análise e coleta de dados dos adversários), ele encontra limitações, pois o excesso de informações visuais e estatísticas dificulta o uso eficiente das ferramentas. [3] Para tomar decisões estratégicas, ele precisa de informações que possam ser interpretadas rapidamente. [6] Ele avalia a eficácia de suas ações com base no impacto direto que elas têm no desempenho coletivo da equipe.
+
 
 # Segundo Cenário: 
 
@@ -38,12 +35,10 @@ Carlos, técnico do time de Futebol de Robôs da FEI, carrega a responsabilidade
 
 ## Refinamento do Cenário
 
-1.  Mesmo com anos de experiência, Carlos busca integrar novas tecnologias como dashboards e recursos de IA. Contudo, na prática, ele ainda depende de múltiplos sistemas e planilhas manuais, pois sente falta de interfaces integradas e intuitivas.
-2.  Ele precisa tomar decisões estratégicas rápidas e precisas, principalmente durante os torneios, para ajustar as táticas da equipe em tempo real.
-3.  Para orientar os alunos, informações relevantes e centralizadas sobre o desempenho da equipe e dos adversários são essenciais, mas ele tem dificuldades em localizar e interpretar esses dados no meio do excesso de informação.
-4.  Suas escolhas são influenciadas pela pressão de manter o alto padrão da FEI e pela constante evolução tecnológica dos adversários. O risco principal é o processo manual e cansativo ser propenso a erros, sobrecarregando-o.
-5.  Carlos avalia se os objetivos foram atingidos não apenas pela vitória no campeonato, mas pela melhora de desempenho da equipe baseada em suas orientações e pela formação de novos talentos.
-   
+[1] Atualmente, Carlos depende de múltiplos sistemas e planilhas manuais, pois sente falta de interfaces integradas e intuitivas, embora busque integrar novas ferramentas como dashboards e IA. [2] Ele precisa tomar decisões rápidas e estratégicas, principalmente durante os torneios, mas o excesso de dados o sobrecarrega.
+[3] Informações relevantes e centralizadas sobre o desempenho da equipe são essenciais para orientar os alunos. [4] Suas escolhas são influenciadas pela pressão de manter o alto padrão da FEI, pelo desafio de acompanhar a evolução tecnológica dos adversários e pelo risco de cometer erros devido ao cansativo processo manual. [5] Ele avalia se os objetivos foram atingidos não apenas pela vitória, mas pela formação de novos talentos na área.
+
+
 # Terceiro Cenário: 
 
 Brenda, estudante da Mauá e membro do time de Futebol de Robôs, encontrou nessa atividade uma forma de reviver as boas lembranças com seu pai, com quem costumava assistir jogos de futebol. Agora, ela busca levar seu time ao mesmo nível de desempenho da rival FEI.
@@ -58,12 +53,9 @@ Brenda, estudante da Mauá e membro do time de Futebol de Robôs, encontrou ness
 
 ## Refinamento do Cenário
 
-1.  Para treinar efetivamente, Brenda precisa, primeiramente, de acesso a dados claros sobre o desempenho atual da equipe, para que possa identificar falhas.
-2.  Ela precisa de informações e análises que ajudem a planejar melhorias, especialmente após descobrir que a equipe rival (FEI) utiliza tecnologias de análise mais avançadas.
-3.  O resultado das decisões de Brenda impacta diretamente o desempenho de toda a equipe, além de seu próprio senso de realização e motivação, ligados à memória afetiva do pai.
-4.  A principal dificuldade é a barreira na interpretação das informações dos dashboards existentes. A pressão emocional e a frustração de não conseguir visualizar claramente as estratégias mais eficazes representam um risco para sua motivação.
-5.  Brenda sabe que suas ações foram eficazes quando consegue aplicar as análises na prática durante os jogos e observa uma melhora real no desempenho do time, diminuindo a diferença técnica para a rival FEI.
-   
+[1] Para treinar efetivamente, Brenda precisa de dados que permitam identificar falhas de desempenho e planejar melhorias. [2] Ela precisa de uma solução que torne a análise e o aprendizado mais acessíveis, compreensíveis e interativos. [3] Toda a equipe depende das decisões de Brenda, pois ela assumiu um papel de destaque.
+[4] As principais dificuldades são as barreiras na interpretação das informações e na aplicação prática das análises. Isso gera riscos como a pressão emocional de representar sua faculdade, a frustração de não visualizar estratégias claras e a desmotivação ao ver a tecnologia superior da rival. [5] Brenda saberá que suas ações foram eficazes quando o desempenho de seu time atingir o mesmo nível da rival FEI.
+
 # Comunicabilidade
 
 A comunicabilidade refere-se à capacidade do sistema de transmitir claramente sua lógica e intenção ao usuário. A ferramenta deve apresentar seus resultados e recomendações de forma compreensível, usando ícones, cores e visualizações que expressem significado sem necessidade de longas explicações.
