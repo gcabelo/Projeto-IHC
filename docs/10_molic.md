@@ -1,4 +1,10 @@
 # **Verificar classificação de times:**  
 **Diagrama MOLIC:**
 
-<img width="463" height="509" alt="image" src="https://github.com/user-attachments/assets/43555f9e-ae01-44b3-b5fb-65a8efdfdcac" />
+![Diagrama sem nome](https://github.com/user-attachments/assets/e2b85e9b-3f01-4fef-8169-c7a25482410a)
+
+# **Analisar previsão de vitória dos times:**  
+**Diagrama MOLIC:**
+
+![Molics2](https://github.com/user-attachments/assets/d2ab3e40-3ec2-48b8-93cd-29a232748e54)
+
