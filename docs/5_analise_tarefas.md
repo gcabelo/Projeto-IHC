@@ -114,7 +114,10 @@ METHOD 2.B: (Identificar interação com a bola)
 - OP. 2.B.3: Armazenar logs classificados no banco de dados correspondente.
 
 GOAL 3: Integrar logs na plataforma de análise.
-- SEL. RULE: SE (Logs não estão no formato aceito pela plataforma) ENTÃO (Usar METHOD 3.A), SENÃO (Usar METHOD 3.B).
+
+- SEL. RULE 3.1: SE (O usuário identifica que os logs não estão no formato aceito) ENTÃO (Usar METHOD 3.A).
+- SEL. RULE 3.2: SE (O usuário identifica que os logs já estão no formato aceito) ENTÃO (Usar METHOD 3.B).
+
 METHOD 3.A: Converter logs para o formato da plataforma.
 
 - OP. 3.A.1: Selecionar os logs para conversão.
@@ -151,7 +154,9 @@ METHOD 2.A: Comparar relatório com logs originais.
 - OP. 2.A.3: Identificar qualquer discrepância ou inconsistência.
 
 - GOAL 3: Confirmar a precisão dos dados.
-- SEL. RULE: SE (Não há discrepâncias identificadas na etapa anterior) ENTÃO (Usar METHOD 3.A), SENÃO (Usar METHOD 3.B).
+  
+- SEL. RULE 3.1: SE (Após a revisão, não há discrepâncias) ENTÃO (Usar METHOD 3.A).
+- SEL. RULE 3.2: SE (Após a revisão, foram identificadas discrepâncias) ENTÃO (Usar METHOD 3.B).
 
 METHOD 3.A: Verificar a precisão dos dados.
 
@@ -174,7 +179,9 @@ METHOD 1.A: Utilizar a interface do software de análise.
 - OP. 1.A.3: Visualizar métricas atuais.
 
 - GOAL 2: Editar ou adicionar métricas conforme necessário.
-- SEL. RULE: SE (A métrica necessária não está presente) ENTÃO (Usar METHOD 2.A), SENÃO (Usar METHOD 2.B).
+  
+- SEL. RULE 2.1: SE (A métrica necessária não está presente) ENTÃO (Usar METHOD 2.A).
+- SEL. RULE 2.2: SE (A métrica necessária está presente, mas precisa de ajustes) ENTÃO (Usar METHOD 2.B).
 
 METHOD 2.A: Identificar métricas para edição ou adição. 
 
@@ -183,7 +190,6 @@ METHOD 2.A: Identificar métricas para edição ou adição.
 - OP. 2.A.3: Confirmar e salvar as alterações.
 
 METHOD 2.B: Testar métricas recém-configuradas.
-SEL. RULE: SE (Uma nova métrica foi adicionada OU uma métrica existente foi ajustada) ENTÃO (Usar METHOD 3.A).
 
 - OP. 2.B.1: Gerar um relatório de teste com a métrica ajustada.
 - OP. 2.B.2: Analisar os resultados para garantir a precisão da métrica.
